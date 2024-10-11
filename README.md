@@ -9,3 +9,6 @@ git clone "repo-url"
 
 to push our code 
 
+stage all the changes
+stage all the changees ==> git add .
+to commit the changes ==> 
